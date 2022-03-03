@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 I'm Hendra Pratik Aditama.
 I'm currently an Informatics Engineering student at Mercu Buana University that having passion in native Android programming.
 
-Some of my source code with project-based learning is being privated. So, for those of you who want to see my portfolio (.PDF format) completely, here's the link that you can check : https://bit.ly/PortfolioHendraPratik
+Some of my source code with project-based learning are being privated. So, for those of you who want to see my portfolio (.PDF format) completely, here's the link that you can check : https://bit.ly/PortfolioHendraPratik
 
 Thank you for visiting my profile & have a good day!:smiley:
