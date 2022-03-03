@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello! I'm Hendra Pratik Aditama.
+I'm currently an Informatics Engineering student at Mercu Buana University that having passion in native Android programming. 
+For those of you who want to see my portfolio completely, here's the link that you can check : https://bit.ly/PortfolioHendraPratik
+Thank you for visiting my profile & have a good day! :smiley:
