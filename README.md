@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Currently an Informatics Engineering student at Mercu Buana University that passionate about native Android programming.
-
 Some of my source code with project-based learning are being privated. So, for those of you who want to see my portfolio (.PDF format) completely, here's the link that you can check : https://bit.ly/PortfolioHendraPratik
